@@ -1,0 +1,7 @@
+.UserInput {
+    font: inherit;
+    width: 60%;
+    border: 1px solid black;
+    margin: 20px auto;
+    padding: 20px 10px;
+}
